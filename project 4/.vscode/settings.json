@@ -1,0 +1,7 @@
+{
+    "editor.rename.enablePreview": true,
+    "editor.scrollPredominantAxis": true,
+    "editor.suggest.preview": true,
+    "workbench.commandPalette.preserveInput": true,
+    "workbench.editor.enablePreview": false
+}
