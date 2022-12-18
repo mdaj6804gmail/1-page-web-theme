@@ -81,6 +81,7 @@ li i:hover{
   line-height: 80px;
   display: none;
 }
+
 #check{display: none;}
 
 
@@ -94,9 +95,9 @@ li i:hover{
     position: relative;
     left:30px ;
     text-align: left;
-    
-  
-  
+  }
+  nav ul li a{
+    font-size: 10px;
   }
     
   nav ul{
@@ -113,6 +114,7 @@ li i:hover{
   .checkbtn{display: block;
   cursor: pointer;
 }
+
 .social{display: block;}
 #check:checked ~ ul{
   left: 0px;
